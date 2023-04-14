@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chgrp school hello
+sudo chown -R vincent:staff ../0x01-shell_permissions
